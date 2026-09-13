@@ -1,2 +1,2 @@
 # pemrograman-dasar
-Ripo untuk pemrograman
+Repo untuk pemrograman
